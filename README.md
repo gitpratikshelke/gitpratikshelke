@@ -3,8 +3,8 @@
 
 *I'm a fresher exploring DevOps with skills in GitHub, CI/CD pipelines, Docker, Kubernetes, Ansible, Terraform, shell scripting, and cloud infrastructure. I follow a learnAndShare motto, always eager to solve doubts, collaborate on projects, and take on new challenges*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitchatt&&theme=radical&line_height=27&v=5" alt="sitchatt" /></p>
 
+<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gitpratikshelke&theme=algolia" alt="rishikeshops" /></p>
 
 - 🔭 I’m currently working on **NTT India Managed Services**
 
