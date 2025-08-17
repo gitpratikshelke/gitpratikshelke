@@ -103,21 +103,21 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sitabja-chatterjee/">
+  <a href="https://www.linkedin.com/in/pratik-shelke-a6a354239//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:sitabjachatterjee158@gmail.com">
+  <a href="mailto:pratikshelke8383@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://hashnode.com/@sitchatt)">
+  <a href="[your-twitter-URL](https://hashnode.com/@Pratik83)">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
   </a>
-   <a href="https://medium.com/@sitabjachatterjee158/">
+<!--    <a href="https://medium.com/@sitabjachatterjee158/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
-  </a>
+  </a> -->
 </div>
 <div id="visit count" align="center">
-<img src="https://komarev.com/ghpvc/?username=sitchatt&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gitpratikshelke&style=flat-square&color=blue" alt=""/>
 </div>
 
 
