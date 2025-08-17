@@ -6,9 +6,7 @@
 
 <p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gitpratikshelke&theme=algolia" alt="rishikeshops" /></p>
 
-- 🔭 I’m currently working on **NTT India Managed Services**
 
-- 👯 I’m looking to collaborate on **DevOps Projects**
 
 <h3 align="center">\</h3>
 
@@ -116,11 +114,11 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
   </a> -->
 </div>
-<div align="center">
+<!-- <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
-<div id="visit count" align="center">
+<div id="visit count" align="center"> -->
 <!-- <img src="https://komarev.com/ghpvc/?username=gitpratikshelke&style=flat-square&color=blue" alt=""/> -->
 </div>
 
