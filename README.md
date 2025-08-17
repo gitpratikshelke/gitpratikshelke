@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Shelke</h1>
+
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pratik+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
 
 *I'm a fresher exploring DevOps with skills in GitHub, CI/CD pipelines, Docker, Kubernetes, Ansible, Terraform, shell scripting, and cloud infrastructure. I follow a learnAndShare motto, always eager to solve doubts, collaborate on projects, and take on new challenges*
@@ -65,8 +65,8 @@
 
 <details>
   <summary><b>Tap Me</b></summary>
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://sitchatt.hashnode.dev/how-to-install-and-configure-grafana-for-data-analysis-a-comprehensive-guide-for-beginners&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://sitchatt.hashnode.dev/extension-of-logical-volume-in-linux&large=false&theme=dark"/>
+<!-- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://sitchatt.hashnode.dev/how-to-install-and-configure-grafana-for-data-analysis-a-comprehensive-guide-for-beginners&large=false&theme=dark"/> -->
+<!-- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://sitchatt.hashnode.dev/extension-of-logical-volume-in-linux&large=false&theme=dark"/> -->
 </p>
   </details>
   
