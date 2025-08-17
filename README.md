@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Shelke</h1>
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pratik+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
 
-*I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Docker, Kubernetes , Ansible, Terraform, shell scripting ,cloud infrastructure etc. Helping community with **learnAndShare** moto . I'm Always ready for doubt solving and project collaborations and  ready to take new challanges.*
+*I'm a fresher exploring DevOps with skills in GitHub, CI/CD pipelines, Docker, Kubernetes, Ansible, Terraform, shell scripting, and cloud infrastructure. I follow a learnAndShare motto, always eager to solve doubts, collaborate on projects, and take on new challenges*
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitchatt&&theme=radical&line_height=27&v=5" alt="sitchatt" /></p>
 
